@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revenuecat.purchases:purchases-hybrid-common:1.11.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f00b8c0e037b7b21e0cff5f2611e1ee1/transformed/jetified-purchases-hybrid-common-1.11.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f00b8c0e037b7b21e0cff5f2611e1ee1/transformed/jetified-purchases-hybrid-common-1.11.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f00b8c0e037b7b21e0cff5f2611e1ee1/transformed/jetified-purchases-hybrid-common-1.11.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-hybrid-common/1.11.2/1399e5e39aa64675bc66ad2ac585fe244232a9d1/purchases-hybrid-common-1.11.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-hybrid-common/1.11.2/5c1f80338a3d8271435601c69b733b9b28feb925/purchases-hybrid-common-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

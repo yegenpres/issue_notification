@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../widget_plugin_1/homescreen_widget/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.11/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus-3.2.3/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-9.1.4/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.13/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.14.0/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.10/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-4.1.2/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-11.2.12/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_auth-4.2.0/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.4.1/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_timezone-2.0.0/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.2/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.12/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/purchases_flutter-3.9.5/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus-4.0.4/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.11/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-3.3.0/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/twitter_login-4.1.0/android" />
+            <option value="/opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
