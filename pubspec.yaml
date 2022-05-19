@@ -45,8 +45,7 @@ dependencies:
   styled_widget: ^0.4.0+3
   firebase_core: ^1.14.0
   dio: ^4.0.6
-  homescreen_widget:
-    path: /Users/a111/flutter/widget_plugin_1/homescreen_widget
+ 
   sliver_tools: ^0.2.5
   firebase_analytics: ^9.1.2
   flutter_local_notifications: ^9.5.2
